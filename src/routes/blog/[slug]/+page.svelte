@@ -3,4 +3,4 @@
 </script>
 
 
-<p>{data.content}</p>
+<p class="front-bold text-center">{data.content}</p>
